@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cash Flow Monitoring App</string>
+    <string name="title_activity_cash_flow_records">CashFlowRecords</string>
+</resources>
